@@ -1,5 +1,5 @@
 {
   "ios": { "min_version": "1.0", "latest_version": "1.0" },
   "android": { "min_version": "1.0", "latest_version": "1.0" },
-  "ios_testflight": { "min_version": "", "latest_version": "", "store_version": "" }
+  "ios_testflight": { "min_version": "9.9", "latest_version": "9.9", "store_version": "9.9" }
 }
